@@ -1,10 +1,11 @@
-#浏览照片
+#預覽照片
 
-- right slide →: browse the next picture
-- left slide ←: browse the previous picture
-- slide down ↓: quit browsing picture
-- long press ○:  long press the black edge at top and bottom to edit
+- 右側滑動→：瀏覽下一張圖片
+- 左側滑動←：瀏覽上一張圖片
+- 向下滑動↓：退出瀏覽圖片
+- 長按○：長按頂部和底部的黑邊進行編輯
 
-### Edit album:
+#編輯相冊：
 
-- Long press on the album to edit it
+- 長按相冊進行編輯
+
