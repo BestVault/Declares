@@ -1,4 +1,4 @@
-Private Browser - Photo Vault FAQ
+#Private Browser - Photo Vault FAQ
 
 1. If you have any problem when using Private Browser - Photo Vault
 
