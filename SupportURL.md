@@ -1,6 +1,6 @@
 #Private Browser - Photo Vault FAQ
 
-1. If you have any problem when using Private Browser - Photo Vault
+1. If you have any problem when using this App.
 
 > You can contact us with ihebers@icloud.com
 
