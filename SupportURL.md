@@ -1,4 +1,4 @@
-#Private Browser - Photo Vault FAQ
+Apps' FAQ:
 
 1. If you have any problem when using this App.
 
