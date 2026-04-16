@@ -1,10 +1,10 @@
 # TERMS OF SERVICE
 
 
-This agreement is between App, Best Vault (“App”) and users of  App’s products, services, and websites (“You”).
+This agreement is between App, Photo Vault (“Foto”) and users of  App’s products, services, and websites (“You”).
 
 # YOUR ACCEPTANCE
-By installing, using, or accessing App’s products, services, or websites (collectively the “Service”) You signify your agreement to (1) these terms and conditions (the “Terms of Service”), (2) App’s Privacy Policy, found at: https://github.com/BestVault/Declares/blob/master/Privacy.md incorporated herein by reference.
+By installing, using, or accessing App’s products, services, or websites (collectively the “Service”) You signify your agreement to (1) these terms and conditions (the “Terms of Service”), (2) App’s Privacy Policy incorporated herein by reference.
 App may, in its sole discretion, modify or revise the Terms of Service at any time, and You agree to be bound by such modifications or revisions.
 
 # GENERAL USE OF THE SERVICE
